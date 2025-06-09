@@ -1,5 +1,6 @@
 # ILDS-mian
-code of Diffusion Model-Based Image Restoration: Integrative Learning of Determinism and Stochasticity
+code of Diffusion Model-Based Image Restoration: Integrative Learning of Determinism and Stochasticity.
+
 More code will be made available later.
 
 ## Experimental Results
