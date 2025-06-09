@@ -4,14 +4,14 @@ More code will be made available later.
 
 ## Experimental Results
 
-### denoising
-![denoising input](./result/input/SIDD.png)   ![denoising putput](./result/output/SIDD.png)
+### Denoising
+![input](./result/input/SIDD.png)   ![output](./result/output/SIDD.png)
 
-### 实验二：加入注意力机制
-![实验二](./results/exp2_confusion_matrix.png)
+### Shadow Removal
+![input](./result/input/ISTD.png)   ![output](./result/output/ISTD.png)
 
-### 实验三：改进优化器
-![实验三](./results/exp3_accuracy_curve.png)
+### Low-light enhancement
+![input](./result/input/lol.png)   ![output](./result/output/lol.png)
 
-### 实验四：最终模型表现
-![实验四](./results/exp4_summary.png)
+### Deraining
+![input](./result/input/raindrop.png)   ![output](./result/output/raindrop.png)
