@@ -5,7 +5,7 @@ More code will be made available later.
 ## Experimental Results
 
 ### denoising
-![denoising](./result/input/SIDD.png)
+![denoising input](./result/input/SIDD.png)   ![denoising putput](./result/output/SIDD.png)
 
 ### 实验二：加入注意力机制
 ![实验二](./results/exp2_confusion_matrix.png)
