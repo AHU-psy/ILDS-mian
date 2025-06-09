@@ -11,7 +11,7 @@ More code will be made available later.
 ![input](./result/input/ISTD.png)   ![output](./result/output/ISTD.png)
 
 ### Low-light enhancement
-![input](./result/input/lol.png)   ![output](./result/output/lol.png)
+![input](./result/input/lol.png)   ![output](./result/output/LOL.png)
 
 ### Deraining
 ![input](./result/input/raindrop.png)   ![output](./result/output/raindrop.png)
