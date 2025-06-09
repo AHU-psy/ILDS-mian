@@ -1,11 +1,11 @@
 # ILDS-mian
 code of Diffusion Model-Based Image Restoration: Integrative Learning of Determinism and Stochasticity
+More code will be made available later.
 
+## Experimental Results
 
-## 实验结果可视化
-
-### 实验一：Baseline 模型
-![实验一](./results/exp1_loss_curve.png)
+### denoising
+![denoising](./results/input/SIDD.png)
 
 ### 实验二：加入注意力机制
 ![实验二](./results/exp2_confusion_matrix.png)
