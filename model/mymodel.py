@@ -635,6 +635,7 @@ def gen_coefficients(timesteps, schedule="increased", sum_scale=1):
 
 
 class ResidualDiffusion(nn.Module):
+     """ https://github.com/nachifur/RDDM """
     def __init__(
         self,
         model,
@@ -1459,3 +1460,4 @@ class Trainer(object):
         self.results_folder = Path(path)
         if not self.results_folder.exists():
             os.makedirs(self.results_folder)
+
